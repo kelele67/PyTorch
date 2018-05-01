@@ -7,4 +7,4 @@
 
 ### Training a classifier
 
-### Data Parallelism
+
